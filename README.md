@@ -1,3 +1,4 @@
 # playground
 
-## Neuer Service A1 ist jetzt verfügbar
+## Service A1
+Service A1 kann dieses und jenes.
